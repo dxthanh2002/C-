@@ -1,0 +1,15 @@
+D:\Apptech\Git\C-\demo\bin\Debug\net6.0\demo.exe
+D:\Apptech\Git\C-\demo\bin\Debug\net6.0\demo.deps.json
+D:\Apptech\Git\C-\demo\bin\Debug\net6.0\demo.runtimeconfig.json
+D:\Apptech\Git\C-\demo\bin\Debug\net6.0\demo.dll
+D:\Apptech\Git\C-\demo\bin\Debug\net6.0\demo.pdb
+D:\Apptech\Git\C-\demo\obj\Debug\net6.0\demo.csproj.AssemblyReference.cache
+D:\Apptech\Git\C-\demo\obj\Debug\net6.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apptech\Git\C-\demo\obj\Debug\net6.0\demo.AssemblyInfoInputs.cache
+D:\Apptech\Git\C-\demo\obj\Debug\net6.0\demo.AssemblyInfo.cs
+D:\Apptech\Git\C-\demo\obj\Debug\net6.0\demo.csproj.CoreCompileInputs.cache
+D:\Apptech\Git\C-\demo\obj\Debug\net6.0\demo.dll
+D:\Apptech\Git\C-\demo\obj\Debug\net6.0\refint\demo.dll
+D:\Apptech\Git\C-\demo\obj\Debug\net6.0\demo.pdb
+D:\Apptech\Git\C-\demo\obj\Debug\net6.0\demo.genruntimeconfig.cache
+D:\Apptech\Git\C-\demo\obj\Debug\net6.0\ref\demo.dll
