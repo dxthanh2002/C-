@@ -1,0 +1,15 @@
+D:\Apptech\Git\C-\C#01\C#01\bin\Debug\net6.0\C#01.exe
+D:\Apptech\Git\C-\C#01\C#01\bin\Debug\net6.0\C#01.deps.json
+D:\Apptech\Git\C-\C#01\C#01\bin\Debug\net6.0\C#01.runtimeconfig.json
+D:\Apptech\Git\C-\C#01\C#01\bin\Debug\net6.0\C#01.dll
+D:\Apptech\Git\C-\C#01\C#01\bin\Debug\net6.0\C#01.pdb
+D:\Apptech\Git\C-\C#01\C#01\obj\Debug\net6.0\C#01.csproj.AssemblyReference.cache
+D:\Apptech\Git\C-\C#01\C#01\obj\Debug\net6.0\C#01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apptech\Git\C-\C#01\C#01\obj\Debug\net6.0\C#01.AssemblyInfoInputs.cache
+D:\Apptech\Git\C-\C#01\C#01\obj\Debug\net6.0\C#01.AssemblyInfo.cs
+D:\Apptech\Git\C-\C#01\C#01\obj\Debug\net6.0\C#01.csproj.CoreCompileInputs.cache
+D:\Apptech\Git\C-\C#01\C#01\obj\Debug\net6.0\C#01.dll
+D:\Apptech\Git\C-\C#01\C#01\obj\Debug\net6.0\refint\C#01.dll
+D:\Apptech\Git\C-\C#01\C#01\obj\Debug\net6.0\C#01.pdb
+D:\Apptech\Git\C-\C#01\C#01\obj\Debug\net6.0\C#01.genruntimeconfig.cache
+D:\Apptech\Git\C-\C#01\C#01\obj\Debug\net6.0\ref\C#01.dll

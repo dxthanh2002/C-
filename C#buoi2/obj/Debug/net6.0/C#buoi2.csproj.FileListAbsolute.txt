@@ -1,0 +1,15 @@
+D:\Apptech\Git\C-\C#buoi2\bin\Debug\net6.0\C#buoi2.exe
+D:\Apptech\Git\C-\C#buoi2\bin\Debug\net6.0\C#buoi2.deps.json
+D:\Apptech\Git\C-\C#buoi2\bin\Debug\net6.0\C#buoi2.runtimeconfig.json
+D:\Apptech\Git\C-\C#buoi2\bin\Debug\net6.0\C#buoi2.dll
+D:\Apptech\Git\C-\C#buoi2\bin\Debug\net6.0\C#buoi2.pdb
+D:\Apptech\Git\C-\C#buoi2\obj\Debug\net6.0\C#buoi2.csproj.AssemblyReference.cache
+D:\Apptech\Git\C-\C#buoi2\obj\Debug\net6.0\C#buoi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apptech\Git\C-\C#buoi2\obj\Debug\net6.0\C#buoi2.AssemblyInfoInputs.cache
+D:\Apptech\Git\C-\C#buoi2\obj\Debug\net6.0\C#buoi2.AssemblyInfo.cs
+D:\Apptech\Git\C-\C#buoi2\obj\Debug\net6.0\C#buoi2.csproj.CoreCompileInputs.cache
+D:\Apptech\Git\C-\C#buoi2\obj\Debug\net6.0\C#buoi2.dll
+D:\Apptech\Git\C-\C#buoi2\obj\Debug\net6.0\refint\C#buoi2.dll
+D:\Apptech\Git\C-\C#buoi2\obj\Debug\net6.0\C#buoi2.pdb
+D:\Apptech\Git\C-\C#buoi2\obj\Debug\net6.0\C#buoi2.genruntimeconfig.cache
+D:\Apptech\Git\C-\C#buoi2\obj\Debug\net6.0\ref\C#buoi2.dll
