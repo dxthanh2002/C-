@@ -4,10 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace C_2._1
+namespace bt_interface
 {
-    internal class Student
+    internal interface Ihinh
+
     {
-        public String rollno
+        void hienthi();
+        double chuvi();
+        double dientich();
     }
 }

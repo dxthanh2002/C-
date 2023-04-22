@@ -1,0 +1,15 @@
+D:\Apptech\Git\C-\bt_interface\bin\Debug\net6.0\bt_interface.exe
+D:\Apptech\Git\C-\bt_interface\bin\Debug\net6.0\bt_interface.deps.json
+D:\Apptech\Git\C-\bt_interface\bin\Debug\net6.0\bt_interface.runtimeconfig.json
+D:\Apptech\Git\C-\bt_interface\bin\Debug\net6.0\bt_interface.dll
+D:\Apptech\Git\C-\bt_interface\bin\Debug\net6.0\bt_interface.pdb
+D:\Apptech\Git\C-\bt_interface\obj\Debug\net6.0\bt_interface.csproj.AssemblyReference.cache
+D:\Apptech\Git\C-\bt_interface\obj\Debug\net6.0\bt_interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apptech\Git\C-\bt_interface\obj\Debug\net6.0\bt_interface.AssemblyInfoInputs.cache
+D:\Apptech\Git\C-\bt_interface\obj\Debug\net6.0\bt_interface.AssemblyInfo.cs
+D:\Apptech\Git\C-\bt_interface\obj\Debug\net6.0\bt_interface.csproj.CoreCompileInputs.cache
+D:\Apptech\Git\C-\bt_interface\obj\Debug\net6.0\bt_interface.dll
+D:\Apptech\Git\C-\bt_interface\obj\Debug\net6.0\refint\bt_interface.dll
+D:\Apptech\Git\C-\bt_interface\obj\Debug\net6.0\bt_interface.pdb
+D:\Apptech\Git\C-\bt_interface\obj\Debug\net6.0\bt_interface.genruntimeconfig.cache
+D:\Apptech\Git\C-\bt_interface\obj\Debug\net6.0\ref\bt_interface.dll
