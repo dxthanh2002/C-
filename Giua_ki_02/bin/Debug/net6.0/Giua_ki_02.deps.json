@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Giua_ki_02/1.0.0": {
+        "runtime": {
+          "Giua_ki_02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Giua_ki_02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

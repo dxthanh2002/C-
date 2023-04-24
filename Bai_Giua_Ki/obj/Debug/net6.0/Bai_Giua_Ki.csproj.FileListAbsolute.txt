@@ -1,0 +1,15 @@
+D:\Apptech\Git\C-\Bai_Giua_Ki\bin\Debug\net6.0\Bai_Giua_Ki.exe
+D:\Apptech\Git\C-\Bai_Giua_Ki\bin\Debug\net6.0\Bai_Giua_Ki.deps.json
+D:\Apptech\Git\C-\Bai_Giua_Ki\bin\Debug\net6.0\Bai_Giua_Ki.runtimeconfig.json
+D:\Apptech\Git\C-\Bai_Giua_Ki\bin\Debug\net6.0\Bai_Giua_Ki.dll
+D:\Apptech\Git\C-\Bai_Giua_Ki\bin\Debug\net6.0\Bai_Giua_Ki.pdb
+D:\Apptech\Git\C-\Bai_Giua_Ki\obj\Debug\net6.0\Bai_Giua_Ki.csproj.AssemblyReference.cache
+D:\Apptech\Git\C-\Bai_Giua_Ki\obj\Debug\net6.0\Bai_Giua_Ki.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apptech\Git\C-\Bai_Giua_Ki\obj\Debug\net6.0\Bai_Giua_Ki.AssemblyInfoInputs.cache
+D:\Apptech\Git\C-\Bai_Giua_Ki\obj\Debug\net6.0\Bai_Giua_Ki.AssemblyInfo.cs
+D:\Apptech\Git\C-\Bai_Giua_Ki\obj\Debug\net6.0\Bai_Giua_Ki.csproj.CoreCompileInputs.cache
+D:\Apptech\Git\C-\Bai_Giua_Ki\obj\Debug\net6.0\Bai_Giua_Ki.dll
+D:\Apptech\Git\C-\Bai_Giua_Ki\obj\Debug\net6.0\refint\Bai_Giua_Ki.dll
+D:\Apptech\Git\C-\Bai_Giua_Ki\obj\Debug\net6.0\Bai_Giua_Ki.pdb
+D:\Apptech\Git\C-\Bai_Giua_Ki\obj\Debug\net6.0\Bai_Giua_Ki.genruntimeconfig.cache
+D:\Apptech\Git\C-\Bai_Giua_Ki\obj\Debug\net6.0\ref\Bai_Giua_Ki.dll
