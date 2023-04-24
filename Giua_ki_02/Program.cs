@@ -37,8 +37,8 @@
         }
         static void Main(string[] args)
         {
-            Lion lion = new Lion(200, "Simba");
-            Tiger tiger = new Tiger(150, "Shere Khan");
+            Lion lion = new Lion(200, "Dante");
+            Tiger tiger = new Tiger(150, "Vergil");
 
             lion.Show();
             tiger.Show(); 
