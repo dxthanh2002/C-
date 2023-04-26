@@ -36,18 +36,18 @@ namespace Giua_ki_3
         //xây dựng phương thực Nhap() để nhập thông tin sinh viên từ bàn phím
         public void Nhap()
         {
-            Console.Write("Nhap ma ID:");
+            Console.Write("Nhap ma ID: ");
             productID = Console.ReadLine(); ;
-            Console.Write("Nhap ten product");
+            Console.Write("Nhap ten product: ");
             productName = Console.ReadLine();
-            Console.Write("Nhap gia tien");
-            price =int.Parse(Console.ReadLine());
+            Console.Write("Nhap gia tien: ");
+            price =double.Parse(Console.ReadLine());
 
 
         }
         public void Hienthi()
         {
-            Console.WriteLine("ID: {0}, Name: {1}, price : {2}", productID, productName,price);
+            Console.WriteLine("{0}          {1}          {2}", productID, productName,price);
         }
 
         

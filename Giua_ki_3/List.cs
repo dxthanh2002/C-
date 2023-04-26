@@ -24,10 +24,17 @@ namespace Giua_ki_3
         }
         public void Hienthi()
         {
-            Console.WriteLine("List of product: ");
-            for (int i = 0; i < ds.Count; i++)
+            if (ds.Count == 0)
             {
-                ds[i].Hienthi();
+                Console.WriteLine("List id emty!");
+            }
+            else
+            {
+                Console.WriteLine("List of product: ");
+                for (int i = 0; i < ds.Count; i++)
+                {
+                    ds[i].Hienthi();
+                }
             }
         }
         public void Xoa()
@@ -35,7 +42,13 @@ namespace Giua_ki_3
             Console.Write("Enter product ID to delete: ");
             String id = Console.ReadLine();
 
-            int v = ds.RemoveAll(product => product.ProductID == id);
+            for (int i = 0; i < ds.Count; i++)
+            {
+                if (ds[i].ProductID == id)
+                {
+                    ds.RemoveAt(i);
+                }
+            }
         }
 
     }

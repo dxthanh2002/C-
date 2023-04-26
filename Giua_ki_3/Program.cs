@@ -8,10 +8,10 @@ namespace Giua_ki_3
         public static int Menu()
         {
             int chon;
-            Console.WriteLine("Menu \n1. Nhập danh sách \n2. Hiển thị danh sách");
-            Console.WriteLine("3.Sắp xếp điểm giảm dần \n4.Tìm theo từ khóa");
-            Console.WriteLine("5.Thoát");
-            Console.WriteLine("Mời lựa chọn  (1-5):");
+            Console.WriteLine("Menu \n1. ADD \n2. Display");
+            Console.WriteLine("3.Delete \n4.Exit");
+            
+            Console.WriteLine("Mời lựa chọn  (1-4):");
             chon = int.Parse(Console.ReadLine());
             return chon;
         }
