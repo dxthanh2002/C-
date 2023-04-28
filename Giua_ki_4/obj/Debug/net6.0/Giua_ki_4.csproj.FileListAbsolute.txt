@@ -1,0 +1,15 @@
+D:\Apptech\Git\C-\Giua_ki_4\bin\Debug\net6.0\Giua_ki_4.exe
+D:\Apptech\Git\C-\Giua_ki_4\bin\Debug\net6.0\Giua_ki_4.deps.json
+D:\Apptech\Git\C-\Giua_ki_4\bin\Debug\net6.0\Giua_ki_4.runtimeconfig.json
+D:\Apptech\Git\C-\Giua_ki_4\bin\Debug\net6.0\Giua_ki_4.dll
+D:\Apptech\Git\C-\Giua_ki_4\bin\Debug\net6.0\Giua_ki_4.pdb
+D:\Apptech\Git\C-\Giua_ki_4\obj\Debug\net6.0\Giua_ki_4.csproj.AssemblyReference.cache
+D:\Apptech\Git\C-\Giua_ki_4\obj\Debug\net6.0\Giua_ki_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apptech\Git\C-\Giua_ki_4\obj\Debug\net6.0\Giua_ki_4.AssemblyInfoInputs.cache
+D:\Apptech\Git\C-\Giua_ki_4\obj\Debug\net6.0\Giua_ki_4.AssemblyInfo.cs
+D:\Apptech\Git\C-\Giua_ki_4\obj\Debug\net6.0\Giua_ki_4.csproj.CoreCompileInputs.cache
+D:\Apptech\Git\C-\Giua_ki_4\obj\Debug\net6.0\Giua_ki_4.dll
+D:\Apptech\Git\C-\Giua_ki_4\obj\Debug\net6.0\refint\Giua_ki_4.dll
+D:\Apptech\Git\C-\Giua_ki_4\obj\Debug\net6.0\Giua_ki_4.pdb
+D:\Apptech\Git\C-\Giua_ki_4\obj\Debug\net6.0\Giua_ki_4.genruntimeconfig.cache
+D:\Apptech\Git\C-\Giua_ki_4\obj\Debug\net6.0\ref\Giua_ki_4.dll
