@@ -1,0 +1,15 @@
+D:\Apptech\Git\C-\Cuoi_ki\bin\Debug\net6.0\Cuoi_ki.exe
+D:\Apptech\Git\C-\Cuoi_ki\bin\Debug\net6.0\Cuoi_ki.deps.json
+D:\Apptech\Git\C-\Cuoi_ki\bin\Debug\net6.0\Cuoi_ki.runtimeconfig.json
+D:\Apptech\Git\C-\Cuoi_ki\bin\Debug\net6.0\Cuoi_ki.dll
+D:\Apptech\Git\C-\Cuoi_ki\bin\Debug\net6.0\Cuoi_ki.pdb
+D:\Apptech\Git\C-\Cuoi_ki\obj\Debug\net6.0\Cuoi_ki.csproj.AssemblyReference.cache
+D:\Apptech\Git\C-\Cuoi_ki\obj\Debug\net6.0\Cuoi_ki.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apptech\Git\C-\Cuoi_ki\obj\Debug\net6.0\Cuoi_ki.AssemblyInfoInputs.cache
+D:\Apptech\Git\C-\Cuoi_ki\obj\Debug\net6.0\Cuoi_ki.AssemblyInfo.cs
+D:\Apptech\Git\C-\Cuoi_ki\obj\Debug\net6.0\Cuoi_ki.csproj.CoreCompileInputs.cache
+D:\Apptech\Git\C-\Cuoi_ki\obj\Debug\net6.0\Cuoi_ki.dll
+D:\Apptech\Git\C-\Cuoi_ki\obj\Debug\net6.0\refint\Cuoi_ki.dll
+D:\Apptech\Git\C-\Cuoi_ki\obj\Debug\net6.0\Cuoi_ki.pdb
+D:\Apptech\Git\C-\Cuoi_ki\obj\Debug\net6.0\Cuoi_ki.genruntimeconfig.cache
+D:\Apptech\Git\C-\Cuoi_ki\obj\Debug\net6.0\ref\Cuoi_ki.dll
